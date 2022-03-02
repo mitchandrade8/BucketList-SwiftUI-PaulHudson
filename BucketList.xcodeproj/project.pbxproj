@@ -11,6 +11,17 @@
 		744FA53F27CA589B00C4F606 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA53E27CA589B00C4F606 /* ContentView.swift */; };
 		744FA54127CA589D00C4F606 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 744FA54027CA589D00C4F606 /* Assets.xcassets */; };
 		744FA54427CA589D00C4F606 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 744FA54327CA589D00C4F606 /* Preview Assets.xcassets */; };
+		744FA54B27CA627B00C4F606 /* WritingData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA54A27CA627B00C4F606 /* WritingData.swift */; };
+		744FA54D27CA629A00C4F606 /* AddingConformance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA54C27CA629A00C4F606 /* AddingConformance.swift */; };
+		744FA54F27CA656D00C4F606 /* SwithcingStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA54E27CA656D00C4F606 /* SwithcingStates.swift */; };
+		744FA55127CA683200C4F606 /* IntegratingMapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA55027CA683200C4F606 /* IntegratingMapKit.swift */; };
+		744FA55327CA754E00C4F606 /* TouchIDandFaceID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA55227CA754E00C4F606 /* TouchIDandFaceID.swift */; };
+		744FA55527CA7B8500C4F606 /* UserLocations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA55427CA7B8500C4F606 /* UserLocations.swift */; };
+		744FA55727CA7D9D00C4F606 /* DreamLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744FA55627CA7D9D00C4F606 /* DreamLocation.swift */; };
+		74B1A3A527CAFB1E00575993 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B1A3A427CAFB1E00575993 /* EditView.swift */; };
+		74B1A3A727CC4C5D00575993 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B1A3A627CC4C5D00575993 /* Result.swift */; };
+		74B1A3A927CC5FBE00575993 /* UserLocations-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B1A3A827CC5FBE00575993 /* UserLocations-ViewModel.swift */; };
+		74B1A3AB27CC6D2D00575993 /* FileManager-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74B1A3AA27CC6D2D00575993 /* FileManager-DocumentsDirectory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		744FA53E27CA589B00C4F606 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		744FA54027CA589D00C4F606 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		744FA54327CA589D00C4F606 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		744FA54A27CA627B00C4F606 /* WritingData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WritingData.swift; sourceTree = "<group>"; };
+		744FA54C27CA629A00C4F606 /* AddingConformance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingConformance.swift; sourceTree = "<group>"; };
+		744FA54E27CA656D00C4F606 /* SwithcingStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwithcingStates.swift; sourceTree = "<group>"; };
+		744FA55027CA683200C4F606 /* IntegratingMapKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegratingMapKit.swift; sourceTree = "<group>"; };
+		744FA55227CA754E00C4F606 /* TouchIDandFaceID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchIDandFaceID.swift; sourceTree = "<group>"; };
+		744FA55427CA7B8500C4F606 /* UserLocations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserLocations.swift; sourceTree = "<group>"; };
+		744FA55627CA7D9D00C4F606 /* DreamLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamLocation.swift; sourceTree = "<group>"; };
+		74B1A3A427CAFB1E00575993 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		74B1A3A627CC4C5D00575993 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
+		74B1A3A827CC5FBE00575993 /* UserLocations-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserLocations-ViewModel.swift"; sourceTree = "<group>"; };
+		74B1A3AA27CC6D2D00575993 /* FileManager-DocumentsDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManager-DocumentsDirectory.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +75,17 @@
 			children = (
 				744FA53C27CA589B00C4F606 /* BucketListApp.swift */,
 				744FA53E27CA589B00C4F606 /* ContentView.swift */,
+				744FA54A27CA627B00C4F606 /* WritingData.swift */,
+				744FA54C27CA629A00C4F606 /* AddingConformance.swift */,
+				744FA54E27CA656D00C4F606 /* SwithcingStates.swift */,
+				744FA55027CA683200C4F606 /* IntegratingMapKit.swift */,
+				744FA55227CA754E00C4F606 /* TouchIDandFaceID.swift */,
+				744FA55427CA7B8500C4F606 /* UserLocations.swift */,
+				74B1A3A827CC5FBE00575993 /* UserLocations-ViewModel.swift */,
+				74B1A3AA27CC6D2D00575993 /* FileManager-DocumentsDirectory.swift */,
+				74B1A3A427CAFB1E00575993 /* EditView.swift */,
+				74B1A3A627CC4C5D00575993 /* Result.swift */,
+				744FA55627CA7D9D00C4F606 /* DreamLocation.swift */,
 				744FA54027CA589D00C4F606 /* Assets.xcassets */,
 				744FA54227CA589D00C4F606 /* Preview Content */,
 			);
@@ -137,8 +170,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				744FA54F27CA656D00C4F606 /* SwithcingStates.swift in Sources */,
+				74B1A3A927CC5FBE00575993 /* UserLocations-ViewModel.swift in Sources */,
+				744FA55527CA7B8500C4F606 /* UserLocations.swift in Sources */,
+				744FA54D27CA629A00C4F606 /* AddingConformance.swift in Sources */,
+				744FA55127CA683200C4F606 /* IntegratingMapKit.swift in Sources */,
+				744FA55727CA7D9D00C4F606 /* DreamLocation.swift in Sources */,
+				744FA54B27CA627B00C4F606 /* WritingData.swift in Sources */,
+				74B1A3AB27CC6D2D00575993 /* FileManager-DocumentsDirectory.swift in Sources */,
+				74B1A3A527CAFB1E00575993 /* EditView.swift in Sources */,
+				744FA55327CA754E00C4F606 /* TouchIDandFaceID.swift in Sources */,
 				744FA53F27CA589B00C4F606 /* ContentView.swift in Sources */,
 				744FA53D27CA589B00C4F606 /* BucketListApp.swift in Sources */,
+				74B1A3A727CC4C5D00575993 /* Result.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +316,7 @@
 				DEVELOPMENT_TEAM = 4A45YWS7LC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "Please authenticate yourself to unlock your places.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -301,6 +346,7 @@
 				DEVELOPMENT_TEAM = 4A45YWS7LC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "Please authenticate yourself to unlock your places.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
